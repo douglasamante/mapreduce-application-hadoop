@@ -31,9 +31,7 @@ n_ids = 3
 friend = []
 count = []
 
-friend.append(x[random.randint(0, 30494865)])
-count.append(0)
-for i in range(1, n_ids):
+for i in range(n_ids):
   friend.append(x[random.randint(0, 30494865)])
   count.append(0)
 
