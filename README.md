@@ -9,8 +9,10 @@ The main focus of this project is to develop a MapReduce job for Hadoop. With th
 - Dataset original link https://snap.stanford.edu/data/ego-Gplus.html
 
 ## Struture
-The folder **Python Standalone** contains Python scripts to run a standard implementation to find mutual friends from n IDs.  
+The folder **Python Standalone** contains Python scripts to run a standard implementation to find mutual friends from n IDs.
+
 The folder **Python MapReduce** contains Python scripts to run a MapReduce job, fitted for ´cmd´ run and Hadoop.
+
 The folder **Hadoop Scripts** contains scripts to do the Setting Up Hadoop.
 
 ## Setting Up Hadoop
